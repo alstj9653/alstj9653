@@ -20,7 +20,6 @@
 ## 간지톤 2026 · 프론트엔드 저장소
 
 - [22팀 프론트엔드](https://github.com/2026Ganzi-Thon/2026_GANZITHON_TEAM_22_FE)
-- [27팀 프론트엔드](https://github.com/2026Ganzi-Thon/2026_GANZITHON_TEAM_27_FE)
 
 ## SKU 클론코딩
 
