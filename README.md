@@ -12,3 +12,12 @@
 ## Dalli · 해커톤 팀 프로젝트
 
 장소의 혼잡도를 지도에서 확인하는 모바일 앱입니다. [팀 저장소](https://github.com/Gonu19/Dalli-hackathon)
+
+## 간지톤 2026 · 프론트엔드 저장소
+
+- [22팀 프론트엔드](https://github.com/2026Ganzi-Thon/2026_GANZITHON_TEAM_22_FE)
+- [27팀 프론트엔드](https://github.com/2026Ganzi-Thon/2026_GANZITHON_TEAM_27_FE)
+
+## SKU 클론코딩
+
+[프로젝트 저장소](https://github.com/haewon488/SKU-SKU-Clone-Coding)
