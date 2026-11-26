@@ -11,7 +11,11 @@
 
 ## Dalli · 해커톤 팀 프로젝트
 
-장소의 혼잡도를 지도에서 확인하는 모바일 앱입니다. [팀 저장소](https://github.com/Gonu19/Dalli-hackathon)
+초보 러너가 자신에게 맞는 케이던스(분당 발걸음 수)로 무리 없이 완주하고, 러닝 기록과 계획을 꾸준한 운동 습관으로 이어가도록 돕는 앱입니다.
+
+- **담당** — Expo(iOS) 앱의 UI 프론트엔드. 화면과 라우팅, API 연동, 공통 컴포넌트와 테마를 담당했습니다.
+
+[팀 저장소](https://github.com/Gonu19/Dalli-hackathon) · [화면 및 라우팅 문서](https://github.com/Gonu19/Dalli-hackathon/blob/main/docs/SCREENS.md)
 
 ## 간지톤 2026 · 프론트엔드 저장소
 
